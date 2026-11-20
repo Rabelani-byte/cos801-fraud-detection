@@ -1,0 +1,4 @@
+Model,False Negatives,False Positives,Missed Fraud Cost (ZAR),False Alert Cost (ZAR),Total Expected Cost (ZAR),Average Cost per Transaction (ZAR)
+LightGBM,1990,218,1990000,10900,2000900,22.588365450830313
+TabNet,2108,512,2108000,25600,2133600,24.0864293697294
+FT-Transformer,1974,667,1974000,33350,2007350,22.66118016278886
