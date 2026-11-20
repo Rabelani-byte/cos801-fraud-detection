@@ -1,0 +1,25 @@
+# Python temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+.env
+
+# Original Kaggle data
+*.parquet
+Data/*.csv
+Data/*.zip
+data/*.csv
+data/*.zip
+
+# Saved trained models
+*.joblib
+*.pth
+*.pt
+
+# Temporary files
+.DS_Store
+Thumbs.db
